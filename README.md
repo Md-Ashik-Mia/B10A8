@@ -1,12 +1,68 @@
-# React + Vite
+# GadgetHeaven ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Your go-to destination for the latest and greatest gadgets.  
+A modern e-commerce platform built using React, React Router, Context API, and more.
 
-Currently, two official plugins are available:
+## 🔗 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Visit GadgetHeaven](https://md-ashik-mia-b10a8.netlify.app/)  
 
-## Expanding the ESLint configuration
+## 📄 Requirement Document
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[Assignment Details (PDF)](https://drive.google.com/drive/folders/1Hzn49HhlowhYrOXqYthU_Ac_Q-tkINHx?usp=sharing)  
+
+---
+
+## ⚛️ React Concepts Used
+
+- `JSX`
+- `Components`
+- `Props` & `State`
+- `React Router DOM` (`createBrowserRouter`, `useParams`, `useNavigate`, `useLocation`)
+- `Context API` for global cart and wishlist state
+- `useEffect` & `useState` hooks
+- `Conditional Rendering`
+- `Dynamic Routing`
+- `Nested Routes`
+- `Toast Notifications` using `react-toastify`
+- `Chart Rendering` using `recharts`
+
+---
+
+## 🛠️ Data Handling
+
+- **State Management**: Context API
+- **Dynamic Routing**: React Router
+- **Data Source**: `data.json` (local fake data)
+
+---
+
+## 🌟 Features
+
+1. **Fully functional dynamic routing** using React Router DOM.
+2. **Product details page** with full specifications, rating display, and action buttons.
+3. **Shopping Cart & Wishlist system** using Context API 
+4. **Filter by categories** and **sort cart items by price**.
+5. **Beautiful Composed Chart** on the Statistics page (Price vs. Product with rating as scatter data).
+
+---
+
+## 🎉 Toast Notifications
+
+- ✅ **Add to Cart**: “Item Added To The Cart”
+- 💖 **Add to Wishlist**: “Item Added To The WishList”
+
+---
+
+## 🧪 Bonus / Challenge Features
+
+- Dynamic document titles using `document.title`
+- Different background color for home vs. other pages using `useLocation()`
+- Modal on purchase with `useNavigate()` redirect to home
+- Favicon setup
+- Remove items from cart
+- 404 page routing handled using React Router + `_redirects` file for Netlify SPA fallback
+
+---
+
+
