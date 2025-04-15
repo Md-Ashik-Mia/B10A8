@@ -1,0 +1,223 @@
+[
+  {
+    "id": "1",
+    "name": "Dell XPS 13",
+    "category": "Laptops",
+    "price": 89,
+    "image": "/images/laptop.jpg",
+    "description": "13.4-inch UHD+ display, Intel i7, 16GB RAM, 512GB SSD",
+    "specification": ["13.4-inch UHD+ display", "Intel i7", "16GB RAM", "512GB SSD"],
+    "availability": true,
+    "rating": 3
+    
+  },
+  {
+    "id": "2",
+    "name": "MacBook Pro M2",
+    "category": "MacBook",
+    "price": 119,
+    "image": "/images/MacBook Pro M2.webp",
+    "description": "14-inch Liquid Retina XDR, 16GB RAM, 512GB SSD",
+    "specification": ["14-inch Liquid Retina XDR", "16GB RAM", "512GB SSD"],
+    "availability": false,
+    "rating": 2
+  },
+  {
+    "id": "3",
+    "name": "iPhone 14 Pro",
+    "category": "Iphone",
+    "price": 133,
+    "image": "/images/Iphone 14 pro max.webp",
+    "description": "6.1-inch Super Retina XDR, 128GB, A16 Bionic chip",
+    "specification": ["6.1-inch Super Retina XDR", "128GB", "A16 Bionic chip"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "4",
+    "name": "Samsung Galaxy S23",
+    "category": "Phones",
+    "price": 77,
+    "image": "/images/Samsung Galaxy S23.jpg",
+    "description": "6.1-inch Dynamic AMOLED, 256GB, Snapdragon 8 Gen 2",
+    "specification": ["6.1-inch Dynamic AMOLED", "256GB", "Snapdragon 8 Gen 2"],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "id": "5",
+    "name": "Apple Watch Series 9",
+    "category": "Smart Watches",
+    "price": 101,
+    "image": "/images/Apple Watch Series 9.jpg",
+    "description": "45mm Aluminum Case, Retina Display, GPS",
+    "specification": ["45mm Aluminum Case", "Retina Display", "GPS"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": "6",
+    "name": "Asus ROG Zephyrus",
+    "category": "Laptops",
+    "price": 145,
+    "image": "/images/ROG-Zephyrus-Duo-16-2-1.jpg",
+    "description": "15.6” FHD 144Hz, Ryzen 7, RTX 3060, 16GB RAM",
+    "specification": ["15.6” FHD 144Hz", "Ryzen 7", "RTX 3060", "16GB RAM"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": "7",
+    "name": "Sony WH-1000XM5",
+    "category": "Accessories",
+    "price": 58,
+    "image": "/images/Sony WH-1000XM5.jpg",
+    "description": "Wireless Noise Cancelling Over-Ear Headphones",
+    "specification": ["Wireless", "Noise Cancelling", "Over-Ear"],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "id": "8",
+    "name": "Samsung Galaxy S21 FE 5G",
+    "category": "Phones",
+    "price": 112,
+    "image": "/images/Samsung Galaxy S21 FE 5G.jpeg",
+    "description": "6.7-inch LTPO OLED, 128GB, Exynos 2100",
+    "specification": ["6.7-inch LTPO OLED", "128GB", "Exynos 2100"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": "9",
+    "name": "HP Spectre x360",
+    "category": "Laptops",
+    "price": 98,
+    "image": "/images/HP Spectre x360.jpeg",
+    "description": "13.5” OLED Touch, Intel i7, 16GB RAM, 1TB SSD",
+    "specification": ["13.5” OLED Touch", "Intel i7", "16GB RAM", "1TB SSD"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "10",
+    "name": "AirPods Pro 2",
+    "category": "Accessories",
+    "price": 94,
+    "image": "/images/AirPods Pro 2.webp",
+    "description": "Active Noise Cancellation, MagSafe Charging Case",
+    "specification": ["Noise Cancellation", "MagSafe Charging Case"],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "id": "11",
+    "name": "Redmi 9",
+    "category": "Phones",
+    "price": 64,
+    "image": "/images/Redmi 9.jpeg",
+    "description": "1.43” AMOLED, 4GB RAM",
+    "specification": ["1.43” AMOLED", "4GB RAM"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": "12",
+    "name": "Lenovo Legion 5",
+    "category": "Laptops",
+    "price": 142,
+    "image": "/images/Lenovo Legion 5.jpg",
+    "description": "15.6” FHD 165Hz, Ryzen 7, RTX 3060",
+    "specification": ["15.6” FHD 165Hz", "Ryzen 7", "RTX 3060"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": "13",
+    "name": "iPhone SE (3rd Gen)",
+    "category": "Iphone",
+    "price": 73,
+    "image": "/images/iPhone SE (3rd Gen).jpeg",
+    "description": "4.7-inch Retina HD, A15 Bionic, 64GB",
+    "specification": ["4.7-inch Retina HD", "A15 Bionic", "64GB"],
+    "availability": false,
+    "rating": 4.5
+  },
+  {
+    "id": "14",
+    "name": "Dell Inspiron 15",
+    "category": "Laptops",
+    "price": 107,
+    "image": "/images/Dell Inspiron 15.jpg",
+    "description": "15.6” FHD, Intel i5, 8GB RAM, 512GB SSD",
+    "specification": ["15.6” FHD", "Intel i5", "8GB RAM", "512GB SSD"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": "15",
+    "name": "OnePlus 11",
+    "category": "Phones",
+    "price": 129,
+    "image": "/images/OnePlus 11.jpg",
+    "description": "6.7” AMOLED, 100W Fast Charging, 256GB",
+    "specification": ["6.7” AMOLED", "100W Fast Charging", "256GB"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": "16",
+    "name": "MacBook Air M2",
+    "category": "MacBook",
+    "price": 122,
+    "image": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_SL1500_.jpg",
+    "description": "13.6” Liquid Retina, 8GB RAM, 256GB SSD",
+    "specification": ["13.6” Liquid Retina", "8GB RAM", "256GB SSD"],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "id": "17",
+    "name": "Galaxy Watch 5",
+    "category": "Smart Watches",
+    "price": 86,
+    "image": "/images/Galaxy Watch 5.jpg",
+    "description": "44mm Super AMOLED, BioActive Sensor, GPS",
+    "specification": ["44mm Super AMOLED", "BioActive Sensor", "GPS"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": "18",
+    "name": "Beats Studio Buds",
+    "category": "Accessories",
+    "price": 50,
+    "image": "/images/Beats Studio Buds.jpeg",
+    "description": "Active Noise Cancelling, USB-C, Sweat Resistant",
+    "specification": ["Noise Cancelling", "USB-C", "Sweat Resistant"],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "id": "19",
+    "name": "Xiaomi Mi 13",
+    "category": "Phones",
+    "price": 110,
+    "image": "/images/Xiaomi Mi 13.jpg",
+    "description": "6.36” OLED, Snapdragon 8 Gen 2, 256GB",
+    "specification": ["6.36” OLED", "Snapdragon 8 Gen 2", "256GB"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": "20",
+    "name": "Acer Aspire 7",
+    "category": "Laptops",
+    "price": 137,
+    "image": "/images/Acer Aspire 7.webp",
+    "description": "15.6” FHD, Ryzen 5, GTX 1650, 8GB RAM",
+    "specification": ["15.6” FHD", "Ryzen 5", "GTX 1650", "8GB RAM"],
+    "availability": true,
+    "rating": 4.5
+  }
+]
